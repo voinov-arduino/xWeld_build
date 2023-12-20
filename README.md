@@ -45,7 +45,7 @@ cd build
 ./compile.sh
 ```
 
-./compile.sh build BOARD=orangepi3lts BRANCH=current BUILD_DESKTOP=yes BUILD_MINIMAL=no DESKTOP_APPGROUPS_SELECTED='browsers internet' DESKTOP_ENVIROMENT=xfce DESKTOP_ENVIROMENT_CONFIG_NAME=config_base KERNEL_CONFIGURE=no BOOT_LOGO=yes EXTRAWIFI=no RELEASE=jammy
+./compile.sh build BOARD=orangepi3lts BRANCH=current BUILD_DESKTOP=yes BUILD_MINIMAL=no DESKTOP_APPGROUPS_SELECTED='browsers internet' DESKTOP_ENVIRONMENT=xfce DESKTOP_ENVIRONMENT_CONFIG_NAME=config_base KERNEL_CONFIGURE=no BOOT_LOGO=yes EXTRAWIFI=no RELEASE=jammy
 
 <a href="#how-to-build-an-image-or-a-kernel"><img src=".github/README.gif" alt="Armbian logo" width="100%"></a>
 
